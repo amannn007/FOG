@@ -1,6 +1,6 @@
 # Music Player UI
 
-A React-based music player application with a modern UI, built as part of the Samespace Front-End Developer challenge.
+A React-based music player application with a modern UI, built as part of the FOG as Full Stack Developer challenge.
 
 ## Features
 
